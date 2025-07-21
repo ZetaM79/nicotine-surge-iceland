@@ -1,0 +1,94 @@
+name,label,full_name,latitude,longitude,year,color,icon,scale
+N1 Ártúnshöfða,,N1 Ártúnshöfða,64.12355607,-21.82642771,2023,##F27E18,locator,0.7
+N1 Bíldshöfða,,N1 Bíldshöfða,64.12439714,-21.82864838,2023,##F27E18,locator,0.7
+N1 Háholti,,N1 Háholti,64.15518,-21.52911,2023,##F27E18,locator,0.7
+N1 Lækjargata,,N1 Lækjargata,64.06804,-21.93116,2023,##F27E18,locator,0.7
+Hlöllabátar Hagasmára,,Hlöllabátar Hagasmára,64.10807,-21.86818,2023,##F27E18,locator,0.7
+Hlöllabátar Bústaðarvegi,,Hlöllabátar Bústaðarvegi,64.14145,-21.94206,2023,##F27E18,locator,0.7
+Stúdentakjallarinn,,Stúdentakjallarinn,64.13983,-21.91565,2023,##F27E18,locator,0.7
+Íssel,,Íssel,64.09628,-21.88838,2023,##F27E18,locator,0.7
+Verslunin Álfheimum,,Verslunin Álfheimum,64.13622,-21.89154,2023,##F27E18,locator,0.7
+Hagkaup Garðabæ,,Hagkaup Garðabæ,64.08865,-21.92298,2023,##F27E18,locator,0.7
+Svens Höfðabakka,,Svens Höfðabakka,64.13052,-21.84356,2023,##F27E18,locator,0.7
+Djákninn Reykjavík,,Djákninn Reykjavík,64.11513,-21.86447,2023,##F27E18,locator,0.7
+Fairvape,,Fairvape,64.11699,-21.8732,2023,##F27E18,locator,0.7
+Gryfjan Skeifunni,,Gryfjan Skeifunni,64.11772,-21.89358,2023,##F27E18,locator,0.7
+Kúlan (Ís-Grill),,Kúlan (Ís-Grill),64.1256875,-21.8634043,2025,##F27E18,locator,0.7
+Esjuskálinn,,Esjuskálinn,64.2418522,-21.8319117,2025,#448E9D,locator,0.7
+Stúdentakjallarinn,,Stúdentakjallarinn,64.1398958,-21.9503903,2025,#448E9D,locator,0.7
+Gaukurinn,,Gaukurinn,64.1487171,-21.940199,2025,#448E9D,locator,0.7
+GS Búllan Dalbraut,,GS Búllan Dalbraut,64.1493754,-21.8719671,2025,#448E9D,locator,0.7
+Hagkaup Garðabæ,,Hagkaup Garðabæ,64.0909781,-21.926364,2025,#448E9D,locator,0.7
+Hagkaup Skeifunni,,Hagkaup Skeifunni,64.1294564,-21.8693684,2025,#448E9D,locator,0.7
+Hagkaup Kringlunni,,Hagkaup Kringlunni,64.1299986,-21.8953148,2025,#448E9D,locator,0.7
+Hagkaup Eiðistorgi,,Hagkaup Eiðistorgi,64.1502427,-21.9845634,2025,#448E9D,locator,0.7
+Hagkaup Spönginni,,Hagkaup Spönginni,64.150745,-21.7876703,2025,#448E9D,locator,0.7
+Hagkaup Smáralind,,Hagkaup Smáralind,64.1011864,-21.8836695,2025,#448E9D,locator,0.7
+Hlöllabátar Hagasmára,,Hlöllabátar Hagasmára,64.102127,-21.8840285,2025,#448E9D,locator,0.7
+Hlöllabátar Bústaðarvegi,,Hlöllabátar Bústaðarvegi,64.1430446,-21.8987587,2025,#448E9D,locator,0.7
+Hlöllabátar Bíldshöfða,,Hlöllabátar Bíldshöfða,64.1249808,-21.8320254,2025,#448E9D,locator,0.7
+Prinsinn,,Prinsinn,64.1018276,-21.8437632,2025,#448E9D,locator,0.7
+Lukku Láki,,Lukku Láki,64.1672889,-21.696933,2025,#448E9D,locator,0.7
+N1 Ártúnshöfða,,N1 Ártúnshöfða,64.1254515,-21.8273575,2025,#448E9D,locator,0.7
+N1 Bíldshöfða,,N1 Bíldshöfða,64.1243136,-21.8291914,2025,#448E9D,locator,0.7
+N1 Háholti,,N1 Háholti,64.1681576,-21.6905851,2025,#448E9D,locator,0.7
+N1 Lækjargata,,N1 Lækjargata,64.066769,-21.938881,2025,#448E9D,locator,0.7
+N1 Borgartúni,,N1 Borgartúni,64.1465439,-21.8946461,2025,#448E9D,locator,0.7
+N1 Fossvogi,,N1 Fossvogi,64.1177811,-21.8991603,2025,#448E9D,locator,0.7
+N1 Reykjavíkurvegi,,N1 Reykjavíkurvegi,64.0779658,-21.949432,2025,#448E9D,locator,0.7
+N1 Skógarsel,,N1 Skógarsel,64.1039252,-21.8457528,2025,#448E9D,locator,0.7
+N1 Stóragerði,,N1 Stóragerði,64.126262,-21.8863475,2025,#448E9D,locator,0.7
+N1 Gagnvegi,,N1 Gagnvegi,64.1396496,-21.7800256,2025,#448E9D,locator,0.7
+N1 Hringbraut,,N1 Hringbraut,64.1385773,-21.9380006,2025,#448E9D,locator,0.7
+N1 Stórahjalla,,N1 Stórahjalla,64.1101516,-21.8565888,2025,#448E9D,locator,0.7
+N1 Ægisíðu,,N1 Ægisíðu,64.1435519,-21.9662608,2025,#448E9D,locator,0.7
+ÓJK-ÍSAM ehf,,ÓJK-ÍSAM ehf,64.1457097,-21.7576933,2025,#448E9D,locator,0.7
+10-11 Austurstræti,,10-11 Austurstræti,64.1475672,-21.9375071,2025,#448E9D,locator,0.7
+Extra Barónsstíg,,Extra Barónsstíg,64.144646,-21.9184727,2025,#448E9D,locator,0.7
+Orkan Grjóthálsi,,Orkan Grjóthálsi,64.1469868,-21.9407552,2025,#448E9D,locator,0.7
+Íssel,,Íssel,64.1039789,-21.8784184,2025,#448E9D,locator,0.7
+Krambúðin Hófgerði,,Krambúðin Hófgerði,64.1117479,-21.918289,2025,#448E9D,locator,0.7
+Krambúðin Lönguhlíð,,Krambúðin Lönguhlíð,64.1333921,-21.9111068,2025,#448E9D,locator,0.7
+Nettó Miðvangi,,Nettó Miðvangi,64.0668935,-21.9546958,2025,#448E9D,locator,0.7
+Krambúðin Menntavegi,,Krambúðin Menntavegi,64.1469868,-21.9407552,2025,#448E9D,locator,0.7
+Nettó Nóatúni,,Nettó Nóatúni,64.1461119,-21.9037432,2025,#448E9D,locator,0.7
+Iceland Staðarbergi,,Iceland Staðarbergi,64.06644,-21.936223,2025,#448E9D,locator,0.7
+Krambúðin Grímsbæ,,Krambúðin Grímsbæ,64.1220387,-21.8751242,2025,#448E9D,locator,0.7
+Krambúðin Skólavörðustíg,,Krambúðin Skólavörðustíg,64.142863,-21.928474,2025,#448E9D,locator,0.7
+Krambúðin Eggertsgötu,,Krambúðin Eggertsgötu,64.135353,-21.950681,2025,#448E9D,locator,0.7
+Krambúðin Hjarðarhaga,,Krambúðin Hjarðarhaga,64.1417232,-21.9619544,2025,#448E9D,locator,0.7
+Nettó Mjódd,,Nettó Mjódd,64.1087986,-21.8422795,2025,#448E9D,locator,0.7
+Nettó Granda,,Nettó Granda,64.154541,-21.951684,2025,#448E9D,locator,0.7
+Iceland Glæsibæ,,Iceland Glæsibæ,64.1344236,-21.8695903,2025,#448E9D,locator,0.7
+Krambúðin Laugalæk,,Krambúðin Laugalæk,64.148716,-21.8838181,2025,#448E9D,locator,0.7
+Nettó Lágmúla,,Nettó Lágmúla,64.1380739,-21.8907352,2025,#448E9D,locator,0.7
+Nettó Mosfellsbæ,,Nettó Mosfellsbæ,64.1641025,-21.6907279,2025,#448E9D,locator,0.7
+Krambúðin Strax,,Krambúðin Strax,64.1307694,-21.9010477,2025,#448E9D,locator,0.7
+Nettó Engihjalla,,Nettó Engihjalla,64.109909,-21.8587635,2025,#448E9D,locator,0.7
+Krambúðin Garðabæ,,Krambúðin Garðabæ,64.0744641,-21.9075856,2025,#448E9D,locator,0.7
+Nettó Salavegi,,Nettó Salavegi,64.0938102,-21.8591088,2025,#448E9D,locator,0.7
+Iceland Seljabraut,,Iceland Seljabraut,64.099524,-21.8313279,2025,#448E9D,locator,0.7
+Iceland Vesturbergi,,Iceland Vesturbergi,64.1056075,-21.8228697,2025,#448E9D,locator,0.7
+Piknik Lóuhólum,,Piknik Lóuhólum,64.1090791,-21.8169849,2025,#448E9D,locator,0.7
+Vikivaki,,Vikivaki,64.1432577,-21.9193426,2025,#448E9D,locator,0.7
+Vikivaki Laugarvegi,,Vikivaki Laugarvegi,64.1464327,-21.9322098,2025,#448E9D,locator,0.7
+Drekinn,,Drekinn,64.079454,-21.943236,2025,#448E9D,locator,0.7
+Verslunin Álfheimum,,Verslunin Álfheimum,64.1374768,-21.8591218,2025,#448E9D,locator,0.7
+Djákninn Reykjavík,,Djákninn Reykjavík,64.13297,-21.87558,2025,#448E9D,locator,0.7
+Svens Nýbýlavegi,,Svens Nýbýlavegi,64.11194,-21.8899,2025,#448E9D,locator,0.7
+Svens Höfðabakka,,Svens Höfðabakka,64.12833,-21.80853,2025,#448E9D,locator,0.7
+Svens Borgartún,,Svens Borgartún,64.1412,-21.91,2025,#448E9D,locator,0.7
+Svens Skeifunni,,Svens Skeifunni,64.13137,-21.87797,2025,#448E9D,locator,0.7
+Svens Kringlunni,,Svens Kringlunni,64.13245,-21.88941,2025,#448E9D,locator,0.7
+Svens Árbæ,,Svens Árbæ,64.12074,-21.78439,2025,#448E9D,locator,0.7
+Svens Dalshrauni,,Svens Dalshrauni,64.08267,-21.94344,2025,#448E9D,locator,0.7
+Svens Ánanaust,,Svens Ánanaust,64.15116,-21.95776,2025,#448E9D,locator,0.7
+Svens Dalvegur,,Svens Dalvegur,64.06667,-21.93333,2025,#448E9D,locator,0.7
+Svens Spönginni,,Svens Spönginni,64.13548,-21.89541,2025,#448E9D,locator,0.7
+Svens Grímsbæ,,Svens Grímsbæ,64.135,-21.895,2025,#448E9D,locator,0.7
+Fairvape,,Fairvape,64.12952,-21.86425,2025,#448E9D,locator,0.7
+Grand Vape Shop,,Grand Vape Shop,64.145,-21.922,2025,#448E9D,locator,0.7
+Gryfjan Skeifunni,,Gryfjan Skeifunni,64.12946,-21.87075,2025,#448E9D,locator,0.7
+Gryfjan Veltusundi,,Gryfjan Veltusundi,64.14778,-21.94,2025,#448E9D,locator,0.7
+Skýjaborgir Höfðabakka,,Skýjaborgir Höfðabakka,64.12769,-21.81104,2025,#448E9D,locator,0.7
+Skýjaborgir Suðurlandsbraut,,Skýjaborgir Suðurlandsbraut,64.13992,-21.88584,2025,#448E9D,locator,0.7

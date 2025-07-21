@@ -1,0 +1,35 @@
+name,full_name,latitude,longitude,year,store_type,location_type
+N1 Ártúnshöfða,"N1 Ártúnshöfða, Ártúnshöfða, 110 Reykjavík",64.12355607,-21.82642771,2023,Retail,Capital Region
+N1 Bíldshöfða,"N1 Bíldshöfða, Bíldshöfða 2, 110 Reykjavík",64.12439714,-21.82864838,2023,Retail,Capital Region
+N1 Háholti,"N1 Háholti, Háholt 2, 270 Mosfellsbær",64.15518,-21.52911,2023,Retail,Capital Region
+N1 Lækjargata,"N1 Lækjargata, Lækjargata 46, 220 Hafnarfjörður",64.06804,-21.93116,2023,Retail,Capital Region
+Hlöllabátar Hagasmára,"Hlöllabátar Hagasmára, Hagasmári 9, 200 Kópavogur",64.10807,-21.86818,2023,Retail,Capital Region
+Hlöllabátar Bústaðarvegi,"Hlöllabátar Bústaðarvegi, Bústaðarvegi 20, 105 Reykjavík",64.14145,-21.94206,2023,Retail,Capital Region
+Stúdentakjallarinn,"Stúdentakjallarinn, Sæmundargata 4, 101 Reykjavík",64.13983,-21.91565,2023,Retail,Capital Region
+Íssel,"Íssel, Smáratorg 1, 201 Kópavogur",64.09628,-21.88838,2023,Retail,Capital Region
+Verslunin Álfheimum,"Verslunin Álfheimum, Álfheimar 2, 104 Reykjavík",64.13622,-21.89154,2023,Retail,Capital Region
+Hagkaup Garðabæ,"Hagkaup Garðabæ, Litlatún 3, 210 Garðabær",64.08865,-21.92298,2023,Retail,Capital Region
+Svens Höfðabakka,"Svens Höfðabakka, Höfðabakka 1, 110 Reykjavík",64.13052,-21.84356,2023,Specialty,Capital Region
+Djákninn Reykjavík,"Djákninn Reykjavík, Suðurlandsbraut 52, 108 Reykjavík",64.11513,-21.86447,2023,Specialty,Capital Region
+Fairvape,"Fairvape, Fákafen 11, 108 Reykjavík",64.11699,-21.8732,2023,Specialty,Capital Region
+Gryfjan Skeifunni,"Gryfjan Skeifunni, Skeifan 17, 108 Reykjavík",64.11772,-21.89358,2023,Specialty,Capital Region
+N1 Borgarnes,"N1 Borgarnes, Brúartorg 1, 310 Borgarnes",64.5439698,-21.9105739,2023,Retail,Countryside
+N1 Ólafsvík,"N1 Ólafsvík, Ólafsbraut 57, 355 Ólafsvík",64.89429,-23.70918,2023,Retail,Countryside
+N1 Akranes,"N1 Akranes, Þjóðbraut 9, 300 Akranes",64.32197,-22.06532,2023,Retail,Countryside
+Kjörbúðin Grundarfirði,"Kjörbúðin Grundarfirði, Grundargata 38, 350 Grundarfjörður",64.92427,-23.26313,2023,Retail,Countryside
+Krambúðin Akranesi,"Krambúðin Akranesi, Garðagrund 1, 300 Akranes",64.32153,-22.05614,2023,Retail,Countryside
+Krambúðin Búðardal,"Krambúðin Búðardal, Vesturbraut 10, 370 Búðardal",65.10949,-21.76503,2023,Retail,Countryside
+Nettó Borgarnesi,"Nettó Borgarnesi, Borgarbraut 58-60, 310 Borgarnes",64.5429091,-21.9122635,2023,Retail,Countryside
+Tækniborg,"Tækniborg, Borgarbraut 58-60, 310 Borgarnes",64.5429091,-21.9122635,2023,Retail,Countryside
+N1 Reykjanesbæ,"N1 Reykjanesbæ, Hafnargata 86, 230 Reykjanesbær",64.001114,-22.551945,2023,Retail,Countryside
+10-11 Leifsstöð,"10-11 Leifsstöð, Flugstöð Leifs Eiríkssonar, 235 Keflavíkurflugvöllur",64.00492,-22.56242,2023,Retail,Countryside
+Extra Reykjanesbæ,"Extra Reykjanesbæ, Hafnargata 51, 230 Reykjanesbær",64.00162,-22.55179,2023,Retail,Countryside
+Orkan Fitjum,"Orkan Fitjum, Fitjar, 260 Reykjanesbær",63.99678,-22.50231,2023,Retail,Countryside
+Kjörbúðin Garði,"Kjörbúðin Garði, Sunnubraut 4, 250 Suðurnesjabær",63.98412,-22.49605,2023,Retail,Countryside
+Kjörbúðin Sandgerði,"Kjörbúðin Sandgerði, Miðnestorgi 1, 245 Suðurnesjabær",63.97645,-22.48024,2023,Retail,Countryside
+Krambúðin Tjarnarbraut,"Krambúðin Tjarnarbraut, Tjarnarbraut 24, 260 Reykjanesbær",63.99416,-22.50267,2023,Retail,Countryside
+Nettó Iðavöllum,"Nettó Iðavöllum, Iðavöllum 14, 230 Reykjanesbær",63.99722,-22.51958,2023,Retail,Countryside
+Nettó Krossmóa,"Nettó Krossmóa, Krossmóa 4, 260 Reykjanesbær",63.99011,-22.49482,2023,Retail,Countryside
+Nettó Grindavík,"Nettó Grindavík, Víkurbraut 60, 240 Grindavík",63.84449,-22.43472,2023,Retail,Countryside
+Svens Krossmóar,"Svens Krossmóar, Krossmóa 4, 260 Reykjanesbær",63.99005,-22.55917,2023,Retail,Countryside
+Skeifan Grindavík,"Skeifan Grindavík, Víkurbraut 62, 240 Grindavík",63.8449,-22.4335,2023,Retail,Countryside
