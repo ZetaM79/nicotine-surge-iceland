@@ -14,4 +14,5 @@ The project was supposed to be quite simple, only using a couple of lists as dat
 ## What I could have done
 I don´t know enough Illustrator to be able to make this look better, so the maps are a bit basic. I focused on finishing, rather than trying to make it look good.
 ## Link to the project
-file:///Users/eyrunmagnusdottir/Desktop/Nik%C3%B3t%C3%ADn%20-%20t%C3%B6lfr%C3%A6%C3%B0i/project1-Magnusdottir.html
+[file:///Users/eyrunmagnusdottir/Desktop/Nik%C3%B3t%C3%ADn%20-%20t%C3%B6lfr%C3%A6%C3%B0i/project1-Magnusdottir.html
+](https://zetam79.github.io/nicotine-surge-iceland/)
